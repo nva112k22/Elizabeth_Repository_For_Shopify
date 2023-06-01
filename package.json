@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/polidario/Elizabeth_Clean.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/polidario/Elizabeth_Clean/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/polidario/Elizabeth_Clean#readme",
+  "homepage": "",
   "devDependencies": {
     "tailwindcss": "^3.3.2"
   }
